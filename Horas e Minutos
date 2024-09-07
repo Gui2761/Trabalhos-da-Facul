@@ -14,8 +14,8 @@ Inicio
     TM <- (H * 60) + M
     TS <- TM * 60
 
-    Escreva ("A hora digitada convertida em minutos é: ", TM)
+    Escreva ("A hora digitada convertida em minutos Ã©: ", TM)
     
-    Escreva ("O total de minutos convertidos em segundos é: ", TS)
+    Escreva ("O total de minutos convertidos em segundos Ã©: ", TS)
 
 Fimalgoritmo
