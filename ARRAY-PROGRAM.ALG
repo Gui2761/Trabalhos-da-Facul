@@ -17,6 +17,6 @@ Inicio
 
    media <- media / 80
 
-   Escreva("A media das notas dos alunos é: ", media)
+   Escreva("A media das notas dos alunos Ã©: ", media)
 
 fimalgoritmo
