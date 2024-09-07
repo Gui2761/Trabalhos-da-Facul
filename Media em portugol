@@ -1,4 +1,4 @@
-Algoritmo "Mariana 1"
+Algoritmo "Media em portugol"
 Var
 nota1, nota2, media: real
 Inicio
@@ -11,6 +11,6 @@ Inicio
     
   media <- (nota1 + nota2) / 2
     
-    Escreva ("A média aritmética das notas é: ", media)
+    Escreva ("A mÃ©dia aritmÃ©tica das notas Ã©: ", media)
     
 Fimalgoritmo
