@@ -1,0 +1,15 @@
+Algoritmo "polígono"
+
+Var
+L: inteiro
+D: real
+Inicio
+
+    Escreva ("Digite o número de lados do polígono: ")
+    Leia (L)
+
+    D <- (L * (L - 3)) / 2
+
+    Escreva ("O número de diagonais do polígono é: ", D)
+    
+Fimalgoritmo
