@@ -1,0 +1,61 @@
+algoritmo "Calendário Mês"
+
+var
+M: inteiro
+inicio
+Escreva("Escreva um valor: ")
+Leia(M)
+        se (M=1) entao
+Escreva("Janeiro")
+        senão
+fimse
+        se (M=2) entao
+Escreva("Fevereiro")
+        senão
+fimse
+        se (M=3) entao
+Escreva("Março")
+        senão
+fimse
+        se (M=4) entao
+Escreva("Abril")
+        senão
+fimse
+        se (M=5) entao
+Escreva("Maio")
+        senão
+fimse
+        se (M=6) entao
+Escreva("Junho")
+        senão
+fimse
+        se (M=7) entao
+Escreva("Julho")
+        senão
+fimse
+        se (M=8) entao
+Escreva("Agosto")
+        senão
+fimse
+        se (M=9) entao
+Escreva("Setembro")
+        senão
+fimse
+        se (M=10) entao
+Escreva("Outubro")
+        senão
+fimse
+        se (M=11) entao
+Escreva("Novembro")
+        senão
+fimse
+        se (M=12) entao
+Escreva("Dezembro")
+        senão
+fimse
+        se (M>12) entao
+Escreva("Não tem")
+        senão
+fimse
+
+fimalgoritmo
