@@ -1,4 +1,4 @@
-algoritmo "Calend·rio MÍs"
+algoritmo "Calend√°rio M√™s"
 
 var
 M: inteiro
@@ -7,55 +7,55 @@ Escreva("Escreva um valor: ")
 Leia(M)
         se (M=1) entao
 Escreva("Janeiro")
-        sen„o
+        sen√£o
 fimse
         se (M=2) entao
 Escreva("Fevereiro")
-        sen„o
+        sen√£o
 fimse
         se (M=3) entao
-Escreva("MarÁo")
-        sen„o
+Escreva("Mar√ßo")
+        sen√£o
 fimse
         se (M=4) entao
 Escreva("Abril")
-        sen„o
+        sen√£o
 fimse
         se (M=5) entao
 Escreva("Maio")
-        sen„o
+        sen√£o
 fimse
         se (M=6) entao
 Escreva("Junho")
-        sen„o
+        sen√£o
 fimse
         se (M=7) entao
 Escreva("Julho")
-        sen„o
+        sen√£o
 fimse
         se (M=8) entao
 Escreva("Agosto")
-        sen„o
+        sen√£o
 fimse
         se (M=9) entao
 Escreva("Setembro")
-        sen„o
+        sen√£o
 fimse
         se (M=10) entao
 Escreva("Outubro")
-        sen„o
+        sen√£o
 fimse
         se (M=11) entao
 Escreva("Novembro")
-        sen„o
+        sen√£o
 fimse
         se (M=12) entao
 Escreva("Dezembro")
-        sen„o
+        sen√£o
 fimse
         se (M>12) entao
-Escreva("N„o tem")
-        sen„o
+Escreva("N√£o tem")
+        sen√£o
 fimse
 
 fimalgoritmo
