@@ -10,8 +10,8 @@ A <- Int(DT / 365)
 M <- Int((DT % 365) / 30)
 D <- Int((DT % 365) % 30)
 
-    escreval("A quantidade de anos é: ", A, " anos")
-    escreval("A quantidade de meses é: ", M, " meses")
-    escreval("A quantidade de dias é: ", D, " dias")
+    escreval("A quantidade de anos Ã©: ", A, " anos")
+    escreval("A quantidade de meses Ã©: ", M, " meses")
+    escreval("A quantidade de dias Ã©: ", D, " dias")
 
 Fimalgoritmo
